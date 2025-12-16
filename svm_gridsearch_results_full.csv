@@ -1,0 +1,4 @@
+Source,precision,recall,f1-score,support
+Overall Accuracy,0.9272629310344828,,,
+Suno,0.91,0.94,0.92,4283.0
+Human,0.94,0.92,0.93,4997.0

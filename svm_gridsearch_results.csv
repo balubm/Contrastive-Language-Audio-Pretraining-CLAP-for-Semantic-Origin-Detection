@@ -1,0 +1,2 @@
+Model,Accuracy,Human_Precision,Human_Recall,Human_F1,Suno_Precision,Suno_Recall,Suno_F1
+SVM (SVC) GridSearchCV,0.93,0.94,0.92,0.93,0.91,0.94,0.92
