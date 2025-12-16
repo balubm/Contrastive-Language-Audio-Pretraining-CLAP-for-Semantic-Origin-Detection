@@ -2,6 +2,7 @@
 
 This project leverages **Contrastive Language–Audio Pretraining (CLAP)** to distinguish AI-generated music from human-composed music using cross-modal audio-text embeddings. By comparing audio tracks to descriptive text labels, we extract interpretable similarity scores and use them as features for machine learning classification.
 
+LinkedIn Article: https://www.linkedin.com/pulse/contrastive-languageaudio-pretraining-clap-semantic-origin-balu-pnztc/
 ---
 
 ## Project Overview
